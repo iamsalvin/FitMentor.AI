@@ -1,5 +1,5 @@
-﻿# IntelliFitAi
-IntelliFit – AI-Powered Fitness & Diet Assistant
+﻿# FitMentorAi
+FitMentor – AI-Powered Fitness & Diet Assistant
 
 Problem Statement / Objective:
 Many people face difficulties in designing fitness routines and meal plans that are tailored to their individual goals, physical limitations, or health conditions. Traditional fitness coaching and diet planning are often expensive, generic, and non-interactive. There's a need for an accessible, intelligent system that can personalize workouts and diets in real-time using user preferences and health data.
@@ -8,7 +8,7 @@ Objective:
 To create an AI-powered web application that delivers personalized fitness routines and dietary plans through an interactive voice and chat-based experience, improving accessibility to health and wellness guidance for everyone.
 
 Proposed Solution:
-IntelliFit is an AI-integrated fitness assistant platform that combines conversational AI, real-time data handling, and personalized program generation. It allows users to:
+FitMentor is an AI-integrated fitness assistant platform that combines conversational AI, real-time data handling, and personalized program generation. It allows users to:
 • Interact with a Voice AI Assistant (Vapi) that understands fitness goals, physical limitations, and preferences.
 • Leverage Gemini AI to generate real-time, personalized fitness plans and diet recommendations.
 • Authenticate securely with Clerk (OAuth with Google, GitHub, or email/password).
